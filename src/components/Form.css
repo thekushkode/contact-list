@@ -1,0 +1,11 @@
+.Flex {
+    display: flex;
+}
+
+.Fifty {
+    width: 50%;
+}
+
+.Margin {
+    margin: 20px 5px 5px 20px;
+}
